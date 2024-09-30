@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dice_roll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f5be6c1966dc7d59c58eb3e9ce31fb07b5b405")]
 [assembly: System.Reflection.AssemblyProductAttribute("dice_roll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dice_roll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

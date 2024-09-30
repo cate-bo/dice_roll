@@ -1,0 +1,15 @@
+C:\Users\cate\source\repos\dice_roll\dice_roll\bin\Debug\net8.0\dice_roll.exe
+C:\Users\cate\source\repos\dice_roll\dice_roll\bin\Debug\net8.0\dice_roll.deps.json
+C:\Users\cate\source\repos\dice_roll\dice_roll\bin\Debug\net8.0\dice_roll.runtimeconfig.json
+C:\Users\cate\source\repos\dice_roll\dice_roll\bin\Debug\net8.0\dice_roll.dll
+C:\Users\cate\source\repos\dice_roll\dice_roll\bin\Debug\net8.0\dice_roll.pdb
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.AssemblyInfoInputs.cache
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.AssemblyInfo.cs
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.csproj.CoreCompileInputs.cache
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.sourcelink.json
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.dll
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\refint\dice_roll.dll
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.pdb
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\dice_roll.genruntimeconfig.cache
+C:\Users\cate\source\repos\dice_roll\dice_roll\obj\Debug\net8.0\ref\dice_roll.dll
